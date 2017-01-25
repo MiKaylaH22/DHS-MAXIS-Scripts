@@ -35,8 +35,7 @@ _[(back to top)](#bluezone-scripts--dhs-maxis-scripts)_
 ---
 State Administrators
 ---
-As of July 2016, there is only one state administrator and one backup for the BlueZone Scripts project: 
-* **[Charles Potter](mailto:Charles.D.Potter@state.mn.us)**: ME Reviewer/Script writer
+As of July 2016, there is no state administrator and one backup for the BlueZone Scripts project: 
 * **[Veronica Cary](mailto:Veronica.Cary@state.mn.us)**: Technical Consultant (backup)
 
 In addition to our state administrators, numerous county/tribal agency personnel are involved in much of the writing and testing of BlueZone Scripts. Their contribution is appreciated!
